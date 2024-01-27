@@ -1,7 +1,4 @@
-
-
-
-
+<img   width="100%"  src="https://github.com/Farooq0095/Farooq0095/assets/132872429/5aad5598-dd34-404c-8851-923c10218a1b">
 <h1 align="center">Hi 👋, I'm Mohammed Farooq</h1>
 <h3 align="center">A Aspiring junior software Engineer(Developer)</h3>
 <img align="right" alt="coding" wigth="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
